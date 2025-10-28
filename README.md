@@ -45,10 +45,12 @@ This project is mostly developed based on [RITM](https://github.com/saic-vul/rit
 |PREVIEWS (TETRIS)     |  100 images and masks from TETRIS used to ablate display modes    |  [PREVIEWS.zip (298 MB)][PREVIEWS]       |
 |SUBSEC_MASKS     |  RClicks masks for subsequent clicks    |  [SUBSEC_MASKS.zip (36 MB)][SUBSEC_MASKS]       |
 
-[GrabCut]: https://github.com/saic-vul/fbrs_interactive_segmentation/releases/download/v1.0/GrabCut.zip
-[Berkeley]: https://github.com/saic-vul/fbrs_interactive_segmentation/releases/download/v1.0/Berkeley.zip
-[DAVIS]: https://github.com/saic-vul/fbrs_interactive_segmentation/releases/download/v1.0/DAVIS.zip
-[COCO_MVal]: https://github.com/saic-vul/fbrs_interactive_segmentation/releases/download/v1.0/COCO_MVal.zip
+[GrabCut]: https://drive.google.com/file/d/1tU17eJaevYd5PQAwzEK6oG1N9eBJORC4/view?usp=sharing
+[Berkeley]: https://drive.google.com/file/d/1yStolKW8AnS5rYm3VhgnID_XReNCXbEJ/view?usp=sharing
+[DAVIS]: https://drive.google.com/file/d/1yStolKW8AnS5rYm3VhgnID_XReNCXbEJ/view?usp=sharing
+[COCO_MVal]: https://drive.google.com/file/d/1oz1VT8YqykQFfx_Vtp_wtYFGz5mYBOnp/view?usp=sharing
+[SBD]: https://drive.google.com/file/d/13LOm0eorDCWO19PzgEI2NeDpWGiZanAf/view?usp=sharing
+[COCO_LVIS]: https://drive.google.com/file/d/15S5lseLQBPSDu3SkNYNKPDBwZiqQpl_-/view?usp=sharing
 [TETRIS]: https://drive.google.com/file/d/1iJgohY1XBSnY-kRUoaRZJlu0HZbyHcyK/view?usp=sharing  
 [PREVIEWS]: https://drive.google.com/drive/folders/1mcCL0lccassABzt1Tm16gYPO3-V5O3uf?usp=sharing
 [SUBSEC_MASKS]: https://drive.google.com/drive/folders/17NbsWTpfA_WyUirTf55LsC90keN2W-Kg?usp=sharing
