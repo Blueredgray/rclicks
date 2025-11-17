@@ -1,6 +1,7 @@
 __MACOSX/
 
 datasets/
+datasets/Berkeley/masks/
 datasets/TETRIS.zip
 *.zip
 
@@ -19,9 +20,12 @@ ClickabilityModel/
 ClickabilityModelAblation/
 ClickabilityModelAblationResults/
 ClickabilityModelAblationResults/
-
+evaluation_logs/
+datasets/clicks.csv
+*.egg-info/
 segment-anything-2/
-
+.DS_Store
+view?usp=drive_link
 
 logs/
 *.log

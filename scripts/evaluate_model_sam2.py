@@ -5,6 +5,8 @@ from pathlib import Path
 
 import cv2
 import torch
+torch.backends.cuda.matmul.allow_tf32 = True
+torch.backends.cudnn.allow_tf32 = True
 import numpy as np
 
 sys.path.insert(0, '.')
